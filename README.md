@@ -22,3 +22,12 @@ To achieve the aim of this study, the following three specific objectives are fo
 - RO2: To design and implement a lightweight biometric framework combining deep learning-based cross-domain liveness detection with a low-latency feature encryption mechanism.
 
 - RO3: To evaluate the proposed framework against standard baseline models using classification error metrics (APCER, BPCER, ACER) and execution latency thresholds on standard workstation and edge computing environments.
+
+<br>
+
+<h2>Scope of the Research</h2>
+The scope of this research is defined by its target users and implementation environment: <br>
+
+- Target User: The system is designed for organizations, educational institutions, or smart-campus administrators requiring secure, privacy-compliant facial biometric access control or attendance logging systems.
+
+- Implementation: The research will employ an Experimental methodology and an Iterative and Incremental development model. The prototype will be implemented using Python, leveraging frameworks such as PyTorch or TensorFlow, and standard computer vision libraries (OpenCV). Evaluation will be conducted using benchmark facial anti-spoofing datasets (e.g., CASIA-FASD or OULU-NPU) in a controlled laboratory environment. The evaluation will focus strictly on algorithmic error rates (ACER) and computational processing latency (milliseconds) compared against standard unhardened baseline models (e.g., standard FaceNet).
