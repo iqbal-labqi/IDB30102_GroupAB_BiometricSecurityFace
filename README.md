@@ -1,7 +1,7 @@
 # IDB30102_GroupAB_BiometricSecurityFace
 
 <h2>Research Proposal Title</h2> 
-A Lightweight Privacy-Preserving Facial Biometric Authentication Framework with Cross-Domain Liveness Detection
+<b>A Lightweight Privacy-Preserving Facial Biometric Authentication Framework with Cross-Domain Liveness Detection</b>
 
 
 <h2>Problem Statement</h2>
