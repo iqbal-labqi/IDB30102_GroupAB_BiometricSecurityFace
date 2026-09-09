@@ -1,4 +1,3 @@
-
 # 01 — Research Papers
 
 ## Overview
