@@ -1,8 +1,6 @@
 # Expected Results
 
-The proposed framework is expected to provide better protection 
-against facial presentation attacks compared with the selected 
-baseline model.
+The proposed framework will be evaluated to determine whether it provides better protection against facial presentation attacks compared with the selected baseline model.
 
 The evaluation will focus on presentation attack detection accuracy 
 and processing efficiency.
