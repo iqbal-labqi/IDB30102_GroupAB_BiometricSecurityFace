@@ -1,19 +1,34 @@
+import cv2
+import numpy as np
+
+
 def presentation_attack_detection(processed_image):
     """
-    Preliminary placeholder for the presentation attack
-    detection component.
+    Preliminary heuristic presentation attack detection (PAD).
 
     The final implementation will use a deep learning-based
-    anti-spoofing model selected during the experimental stage.
+    PAD model selected during the experimental stage.
     """
 
     if processed_image is None:
         raise ValueError("Processed image is required.")
 
-    # Placeholder for the future PAD model
-    result = "Genuine"
+    # Convert normalized image back to 8-bit format
+    image = (processed_image * 255).astype("uint8")
 
-    return result
+    # Measure image texture
+    texture_score = cv2.Laplacian(image, cv2.CV_64F).var()
+
+    # Detect edges
+    edges = cv2.Canny(image, 50, 150)
+
+    # Calculate edge percentage
+    edge_score = cv2.countNonZero(edges) / edges.size
+
+    return {
+        "texture_score": texture_score,
+        "edge_score": edge_score
+    }
 
 
 if __name__ == "__main__":
