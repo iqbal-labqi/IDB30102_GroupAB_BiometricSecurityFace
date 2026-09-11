@@ -4,7 +4,8 @@
 <b>A Lightweight Privacy-Preserving Facial Biometric Authentication Framework with Cross-Domain Liveness Detection</b>
 <br>
 <br>
-<h2>Group Number: AB</h2>
+<h2>Group Number</h2>
+AB
 <br>
 <br>
 <h2>Group Member and Student IDs</h2>
