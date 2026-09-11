@@ -90,7 +90,7 @@ The main gap is the limited integration of cross-domain presentation attack dete
 
 ## 6. Relevant Datasets and Data Sources
 
-The reviewed studies use benchmark, public and application-oriented datasets. Relevant datasets identified in the existing literature include CASIA-FASD, SiW, Replay-Attack, OULU-NPU, CASIA-MFSD, MSU-MFSD, LFW, MOBIO, FFIW-10K, FaceForensics++, OpenForensics, CVL, IITK, CASIA-Face-v5, FERET, CelebA, HDU, CFP-FP, AgeDB-30, IJB-C, WMCA, CASIA-SURF and CASIA-SURF CeFA.
+The reviewed studies use benchmark, public and application-oriented datasets. Relevant datasets identified in the existing literature include CASIA-FASD, SiW, Replay-Attack, OULU-NPU, CASIA-MFSD, MSU-MFSD, LFW, MOBIO, FFIW-10K, FaceForensics++, Celeb-DF, DFDNet, OpenForensics, CVL, IITK, CASIA-Face-v5, FERET, CelebA, HDU, WMCA, CASIA-SURF, CASIA-SURF CeFA, Georgia Tech, Essex, FVC2000 and SOCOFing.
 
 For the proposed research, dataset selection should support a clear comparison between source and target conditions and provide suitable genuine and attack samples for presentation attack detection. The exact final dataset choice remains consistent with the scope and methodology stated in Chapter 1.
 
@@ -107,6 +107,8 @@ For the proposed research, dataset selection should support a clear comparison b
 | AUC / ROC-AUC | Discrimination performance. | Useful where ROC-based evaluation is used. |
 | Recognition accuracy / TAR@FAR | Facial recognition utility. | Helps determine whether privacy protection affects recognition. |
 | Execution latency / inference time | Computational efficiency. | Directly relevant to lightweight deployment. |
+
+Note: this table lists metrics observed across the reviewed literature generally. The metrics actually adopted for this study's own evaluation are limited to APCER, BPCER, ACER, and execution latency, as defined in Chapter 3 (Sections 3.1.1 and 3.9).
 
 ## 8. Link to Chapter 2 Written Report
 
