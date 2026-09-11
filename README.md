@@ -44,7 +44,6 @@ To achieve the aim of this study, the following three specific objectives are fo
 <br>
 <br>
 <h2>Brief Description of the Proposed Solution</h2>
-<br>
 This research proposes a lightweight, privacy-preserving facial biometric authentication framework that integrates cross-domain liveness detection with low-latency feature encryption. The system is designed to significantly reduce spoofing vulnerabilities against unseen attacks while maintaining high processing efficiency suitable for edge computing environments. It uses an Iterative and Incremental development model to build and test preprocessing, liveness detection, feature extraction, and privacy protection modules before final identity matching.
 <br>
 <br>
@@ -59,4 +58,12 @@ The scope of this research is defined by its target users and implementation env
 
 <h2>System Architecture</h2>
 <img width="857" height="671" alt="Figure 1" src="https://github.com/user-attachments/assets/145b1822-150b-43c9-b829-07733bfa0b95" />
+
+<h2>Description of Technical Components Included</h2>
+This repository includes preliminary source code components in the '04_Source_Code' folder to demonstrate the technical direction and feasibility of the proposed framework. The included files are:  <br>
+main.py: Connects the preliminary components into a single processing pipeline. <br> 
+preprocessing.py: Handles initial image preprocessing, including image loading, grayscale conversion, resizing, and pixel normalization. <br>
+pad_detection.py: Provides a preliminary presentation attack detection (PAD) structure. <br> 
+feature_extraction.py: Converts the processed facial image into a numerical feature representation. <br> 
+privacy_protection.py: Provides the initial structure for the low-latency feature protection and encryption mechanism. 
 
