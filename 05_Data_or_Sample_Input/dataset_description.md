@@ -2,9 +2,7 @@
 
 ## Selected Dataset
 
-The study will use a public facial anti-spoofing benchmark dataset. 
-OULU-NPU will be considered, with the final dataset 
-selected based on its suitability for the proposed experiment.
+The study will use the OULU-NPU public facial anti-spoofing benchmark dataset for the proposed experimental evaluation.
 
 ## Dataset Purpose
 
