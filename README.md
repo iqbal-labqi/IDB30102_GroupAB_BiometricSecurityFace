@@ -43,6 +43,12 @@ To achieve the aim of this study, the following three specific objectives are fo
 
 <br>
 <br>
+<h2>Brief Description of the Proposed Solution</h2>
+<br>
+This research proposes a lightweight, privacy-preserving facial biometric authentication framework that integrates cross-domain liveness detection with low-latency feature encryption. The system is designed to significantly reduce spoofing vulnerabilities against unseen attacks while maintaining high processing efficiency suitable for edge computing environments. It uses an Iterative and Incremental development model to build and test preprocessing, liveness detection, feature extraction, and privacy protection modules before final identity matching.
+<br>
+<br>
+
 <h2>Scope of the Research</h2>
 The scope of this research is defined by its target users and implementation environment: <br>
 
