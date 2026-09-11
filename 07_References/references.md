@@ -49,3 +49,15 @@
 - Zainuddin, A. A., Nor, R. M., Handayani, D., Tamrin, Mohd. I., Subramaniam, K., & Sadikan, S. F. (2024). Smart attendance in classroom (Cobot): IoT and facial recognition for educational and entrepreneurial impact. *Aptisi Transactions on Technopreneurship, 6*(3). https://doi.org/10.34306/att.v6i3.497
 
 - Zhang, S., & Nie, W. (2023). Multi-domain feature alignment for face anti-spoofing. *Sensors, 23*(8), 4077. https://doi.org/10.3390/s23084077
+
+## Software, Datasets, and Frameworks
+
+- OULU-NPU Dataset. Official request page: https://sites.google.com/site/oulunpudatabase/
+
+- OpenCV. Official documentation: https://docs.opencv.org/
+
+- PyTorch. Official site: https://pytorch.org/
+
+- TensorFlow. Official site: https://www.tensorflow.org/
+
+- FaceNet. Baseline GitHub repository: https://github.com/davidsandberg/facenet
