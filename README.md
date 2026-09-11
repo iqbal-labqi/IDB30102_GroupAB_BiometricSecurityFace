@@ -48,12 +48,12 @@ This research proposes a lightweight, privacy-preserving facial biometric authen
 <br>
 <br>
 
-<h2>Scope of the Research</h2>
-The scope of this research is defined by its target users and implementation environment: <br>
-
-- <b>Target User</b>: The system is designed for organizations, educational institutions, or smart-campus administrators requiring secure, privacy-compliant facial biometric access control or attendance logging systems.
-
-- <b>Implementation</b>: The research will employ an Experimental methodology and an Iterative and Incremental development model. The prototype will be implemented using Python, leveraging frameworks such as PyTorch or TensorFlow, and standard computer vision libraries (OpenCV). Evaluation will be conducted using benchmark facial anti-spoofing datasets (OULU-NPU) in a controlled laboratory environment. The evaluation will focus strictly on algorithmic error rates (ACER) and computational processing latency (milliseconds) compared against standard unhardened baseline models (e.g., standard FaceNet).
+<h2>Methodology and Evaluation Plan</h2>
+<ul>
+  <li><b>Methodology & Development Model:</b> The research employs an <i>Experimental</i> methodology combined with an <i>Iterative and Incremental</i> development model.</li>
+  <li><b>Evaluation Plan:</b> The framework will be evaluated using the benchmark <b>OULU-NPU</b> facial anti-spoofing dataset in a controlled laboratory environment. The performance will be compared against a standard unhardened baseline model (e.g., standard FaceNet).</li>
+  <li><b>Evaluation Metrics:</b> Algorithmic error rates (APCER, BPCER, ACER) and computational processing latency (in milliseconds).</li>
+</ul>
 
 
 <h2>System Architecture</h2>
