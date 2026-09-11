@@ -60,8 +60,8 @@ The scope of this research is defined by its target users and implementation env
 <img width="857" height="671" alt="Figure 1" src="https://github.com/user-attachments/assets/145b1822-150b-43c9-b829-07733bfa0b95" />
 
 <h2>Description of Technical Components Included</h2>
-This repository includes preliminary source code components in the '04_Source_Code' folder to demonstrate the technical direction and feasibility of the proposed framework. The included files are:  <br>
-main.py: Connects the preliminary components into a single processing pipeline. <br> 
+This repository includes preliminary source code components in the <b></b>04_Source_Code</b> folder to demonstrate the technical direction and feasibility of the proposed framework. The included files are:  <br>
+<b>main.py</b>: Connects the preliminary components into a single processing pipeline. <br> 
 preprocessing.py: Handles initial image preprocessing, including image loading, grayscale conversion, resizing, and pixel normalization. <br>
 pad_detection.py: Provides a preliminary presentation attack detection (PAD) structure. <br> 
 feature_extraction.py: Converts the processed facial image into a numerical feature representation. <br> 
