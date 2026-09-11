@@ -52,4 +52,5 @@ The scope of this research is defined by its target users and implementation env
 
 
 <h2>System Architecture</h2>
-![Proposed Architecture](./03_Architecture_and_Flowchart/Figure 1.png)
+<img width="857" height="671" alt="Figure 1" src="https://github.com/user-attachments/assets/145b1822-150b-43c9-b829-07733bfa0b95" />
+
