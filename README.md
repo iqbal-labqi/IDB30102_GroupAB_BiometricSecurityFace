@@ -72,8 +72,15 @@ This repository includes preliminary source code components in the <b>04_Source_
 
 <h2>Programming Languages, Software, and Tools</h2>
 The following technologies are designated for the development and evaluation of this research: <br>
+
 - Programming Language: Python
+  
 - Computer Vision Library: OpenCV (for image preprocessing and face alignment)
+  
 - Deep Learning Frameworks: PyTorch or TensorFlow (for the PAD model and feature extraction)
+  
 - Data Processing: NumPy
+  
 - Benchmark Dataset: OULU-NPU (for cross-domain presentation attack testing and evaluation)
+  
+
