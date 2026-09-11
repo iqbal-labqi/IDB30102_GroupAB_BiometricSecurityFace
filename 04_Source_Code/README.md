@@ -4,6 +4,8 @@ This folder contains the preliminary source code components for the proposed lig
 
 The code is provided as a preliminary proof-of-concept to demonstrate the technical direction of the proposed system at the research proposal stage.
 
+We shall use the Dataset: OULU-NPU
+
 ## Components
 
 ### `main.py`
