@@ -91,5 +91,15 @@ The following technologies are designated for the development and evaluation of 
   
 <br>
 <br>
-<h2>Instructions for Executing Preliminary Code</h2>
+<h2>Running the Prototype</h2>
+Install the required Python packages:
+
+```bash
+pip install opencv-python numpy
+
+```
+Run the preliminary pipeline using a test facial image:
+```
+python main.py test_face.jpg
+```
 
