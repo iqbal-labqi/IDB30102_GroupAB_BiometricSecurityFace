@@ -4,12 +4,12 @@ This folder contains the proposed system architecture and flowchart for the ligh
 
 ## Contents
 
-### `Figure 3.1.png`
+### `Figure 1.png`
 Proposed system architecture showing the main processing stages of the facial biometric authentication framework:
 
 Facial Input → Preprocessing → Presentation Attack Detection → Feature Processing → Privacy Protection → Face Matching → Authentication Decision
 
-### `Figure 3.2.png`
+### `Figure 2.png`
 Proposed system flowchart showing the sequence of an authentication attempt, including the liveness check and the decision to accept or reject the input.
 
 ## Purpose
