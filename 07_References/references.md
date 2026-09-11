@@ -34,7 +34,7 @@
 
 - Wang, C., Yu, B., & Zhou, J. (2023). A learnable gradient operator for face presentation attack detection. *Pattern Recognition, 135*, 109146. https://doi.org/10.1016/j.patcog.2022.109146
 
-- Wang, C.-Y., Lu, Y.-D., Yang, S.-T., & Lai, S.-H. (2022). PatchNet: A simple face anti-spoofing framework via fine-grained patch recognition. In *2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)* (pp. 20249–20258). IEEE. https://doi.org/10.1109/CVPR52688.2022.0196436
+- Wang, C.-Y., Lu, Y.-D., Yang, S.-T., & Lai, S.-H. (2022). PatchNet: A simple face anti-spoofing framework via fine-grained patch recognition. In *2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)* (pp. 20249–20258). IEEE. https://doi.org/10.1109/CVPR52688.2022.01964
 
 - Wang, Y., Liu, J., Luo, M., Yang, L., & Wang, L. (2022). Privacy-preserving face recognition in the frequency domain. In *Proceedings of the AAAI Conference on Artificial Intelligence, 36*(3), 2558–2566. https://doi.org/10.1609/aaai.v36i3.20157
 
