@@ -5,7 +5,7 @@
 <br>
 <br>
 <h2>Group Number</h2>
-AB
+Group AB
 <br>
 <br>
 <h2>Group Member and Student IDs</h2>
@@ -14,7 +14,7 @@ AB
 3. IZZUL HARITH BIN IDHAM - 52215251635<br>
 4. NUR LYANA YASMIN BINTI KHAMARUKHNIZAM - 52215125726<br>
 <br>
-<br>
+
 <h2>Assigned Research Area</h2>
 Biometric Security: Face
 <br>
