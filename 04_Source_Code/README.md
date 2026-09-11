@@ -29,7 +29,7 @@ Provides a preliminary feature extraction component by converting the processed 
 ### `privacy_protection.py`
 Provides the initial structure for the privacy protection stage.
 
-The final implementation will use a suitable low-latency feature protection or encryption mechanism selected during the development and experimental stages.
+The final implementation will use a suitable low-latency feature protection or encryption mechanism selected during the development and experimental stages, as reviewed in Chapter 2.
 
 ## Running the Prototype
 
