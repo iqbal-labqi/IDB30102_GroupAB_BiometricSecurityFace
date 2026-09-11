@@ -27,7 +27,6 @@ Despite advancements in facial biometric security, current research exhibits two
 - High Computational Latency from Privacy-Preserving Mechanisms: The implementation of robust privacy mechanisms, such as template encryption or blockchain storage, introduces high processing latency and communication overhead. This makes it extremely difficult to deploy secure biometric authentication on edge computing devices and IoT hardware where computational resources are highly constrained.
 
 <br>
-<br>
 <h2>Research Aim</h2>
 The aim of this research is to design, develop, and evaluate a lightweight, privacy-preserving facial biometric authentication framework that enhances cross-domain presentation attack detection while ensuring secure template storage without exceeding the latency constraints of edge devices.
 
