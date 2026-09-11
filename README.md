@@ -2,7 +2,7 @@
 
 <h2>Research Proposal Title</h2> 
 <b>A Lightweight Privacy-Preserving Facial Biometric Authentication Framework with Cross-Domain Liveness Detection</b>
-
+<br>
 <h2>Group Member and Student IDs</h2>
 1. MUHAMMAD IQBAL BIN RUSLAN - 52215125730<br>
 2. MUHAMMAD HUSSAIN KOE BIN MUHAMMAD KHALID KOE - 52215125117<br>
