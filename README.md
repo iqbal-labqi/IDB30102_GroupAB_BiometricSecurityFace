@@ -55,6 +55,7 @@ This research proposes a lightweight, privacy-preserving facial biometric authen
   <li><b>Evaluation Metrics:</b> Algorithmic error rates (APCER, BPCER, ACER) and computational processing latency (in milliseconds).</li>
 </ul>
 
+<br>
 
 <h2>System Architecture</h2>
 <img width="857" height="671" alt="Figure 1" src="https://github.com/user-attachments/assets/145b1822-150b-43c9-b829-07733bfa0b95" />
