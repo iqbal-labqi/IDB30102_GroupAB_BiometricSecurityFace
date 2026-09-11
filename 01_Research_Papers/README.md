@@ -299,6 +299,8 @@ For each selected study, the following information is recorded:
 
 **DOI / Official Link:** https://doi.org/10.1016/j.jvcir.2024.104140
 
+> ⚠️ **Note:** This reference is currently missing from `07_References/references.md`. Add it there to keep the two folders consistent — see the pending note at the bottom of this file.
+
 ---
 
 ## 15. Privacy-Preserving Face Recognition Method Based on Randomization and Local Feature Learning
@@ -501,3 +503,20 @@ For each selected study, the following information is recorded:
 
 ---
 
+## 25. Smart Attendance in Classroom (Cobot): IoT and Facial Recognition for Educational and Entrepreneurial Impact
+
+**Authors / Year:** Zainuddin et al. (2024)
+
+**Research Problem:** Practical, low-cost deployment of facial recognition for classroom attendance.
+
+**Method / Technique:** Facial recognition implemented on Raspberry Pi 5 and ESP32-S3 hardware.
+
+**Dataset / Tools:** Custom classroom facial dataset captured on the deployed hardware.
+
+**Main Findings:** Demonstrated practical feasibility of real-time facial recognition attendance on low-cost edge hardware.
+
+**Limitation:** Evaluation emphasises recognition accuracy over combined spoofing, privacy, and cross-domain security testing.
+
+**Relevance to Proposed Research:** Supports the practical, edge-deployment motivation of the proposed framework while highlighting the evaluation gap this research addresses.
+
+**DOI / Official Link:** https://doi.org/10.34306/att.v6i3.497
