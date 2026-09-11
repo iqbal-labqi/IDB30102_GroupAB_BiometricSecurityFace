@@ -51,9 +51,9 @@ This research proposes a lightweight, privacy-preserving facial biometric authen
 <h2>Scope of the Research</h2>
 The scope of this research is defined by its target users and implementation environment: <br>
 
-- Target User: The system is designed for organizations, educational institutions, or smart-campus administrators requiring secure, privacy-compliant facial biometric access control or attendance logging systems.
+- <b>Target User</b>: The system is designed for organizations, educational institutions, or smart-campus administrators requiring secure, privacy-compliant facial biometric access control or attendance logging systems.
 
-- Implementation: The research will employ an Experimental methodology and an Iterative and Incremental development model. The prototype will be implemented using Python, leveraging frameworks such as PyTorch or TensorFlow, and standard computer vision libraries (OpenCV). Evaluation will be conducted using benchmark facial anti-spoofing datasets (OULU-NPU) in a controlled laboratory environment. The evaluation will focus strictly on algorithmic error rates (ACER) and computational processing latency (milliseconds) compared against standard unhardened baseline models (e.g., standard FaceNet).
+- <b>Implementation</b>: The research will employ an Experimental methodology and an Iterative and Incremental development model. The prototype will be implemented using Python, leveraging frameworks such as PyTorch or TensorFlow, and standard computer vision libraries (OpenCV). Evaluation will be conducted using benchmark facial anti-spoofing datasets (OULU-NPU) in a controlled laboratory environment. The evaluation will focus strictly on algorithmic error rates (ACER) and computational processing latency (milliseconds) compared against standard unhardened baseline models (e.g., standard FaceNet).
 
 
 <h2>System Architecture</h2>
@@ -79,14 +79,14 @@ This repository includes preliminary source code components in the <b>04_Source_
 <h2>Programming Languages, Software, and Tools</h2>
 The following technologies are designated for the development and evaluation of this research: <br>
 
-- Programming Language: Python
+- <b>Programming Language</b>: Python
   
-- Computer Vision Library: OpenCV (for image preprocessing and face alignment)
+- <b>Computer Vision Library</b>: OpenCV (for image preprocessing and face alignment)
   
-- Deep Learning Frameworks: PyTorch or TensorFlow (for the PAD model and feature extraction)
+- <b>Deep Learning Frameworks</b>: PyTorch or TensorFlow (for the PAD model and feature extraction)
   
-- Data Processing: NumPy
+- <b>Data Processing</b>: NumPy
   
-- Benchmark Dataset: OULU-NPU (for cross-domain presentation attack testing and evaluation)
+- <b>Benchmark Dataset</b>: OULU-NPU (for cross-domain presentation attack testing and evaluation)
   
 
