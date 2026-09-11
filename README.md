@@ -3,6 +3,7 @@
 <h2>Research Proposal Title</h2> 
 <b>A Lightweight Privacy-Preserving Facial Biometric Authentication Framework with Cross-Domain Liveness Detection</b>
 <br>
+<br>
 <h2>Group Member and Student IDs</h2>
 1. MUHAMMAD IQBAL BIN RUSLAN - 52215125730<br>
 2. MUHAMMAD HUSSAIN KOE BIN MUHAMMAD KHALID KOE - 52215125117<br>
@@ -17,11 +18,13 @@ Despite advancements in facial biometric security, current research exhibits two
 
 - High Computational Latency from Privacy-Preserving Mechanisms: The implementation of robust privacy mechanisms, such as template encryption or blockchain storage, introduces high processing latency and communication overhead. This makes it extremely difficult to deploy secure biometric authentication on edge computing devices and IoT hardware where computational resources are highly constrained.
 
+<br>
+<br>
 <h2>Research Aim</h2>
 The aim of this research is to design, develop, and evaluate a lightweight, privacy-preserving facial biometric authentication framework that enhances cross-domain presentation attack detection while ensuring secure template storage without exceeding the latency constraints of edge devices.
 
 <br>
-
+<br>
 <h2>Research Objectives</h2>
 To achieve the aim of this study, the following three specific objectives are formulated: <br>
 
@@ -32,7 +35,7 @@ To achieve the aim of this study, the following three specific objectives are fo
 - RO3: To evaluate the proposed framework against standard baseline models using classification error metrics (APCER, BPCER, ACER) and execution latency thresholds on standard workstation and edge computing environments.
 
 <br>
-
+<br>
 <h2>Scope of the Research</h2>
 The scope of this research is defined by its target users and implementation environment: <br>
 
