@@ -3,7 +3,7 @@
 ## Selected Dataset
 
 The study will use a public facial anti-spoofing benchmark dataset. 
-CASIA-FASD or OULU-NPU will be considered, with the final dataset 
+OULU-NPU will be considered, with the final dataset 
 selected based on its suitability for the proposed experiment.
 
 ## Dataset Purpose
