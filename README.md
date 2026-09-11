@@ -3,7 +3,13 @@
 <h2>Research Proposal Title</h2> 
 <b>A Lightweight Privacy-Preserving Facial Biometric Authentication Framework with Cross-Domain Liveness Detection</b>
 
-
+<h2>Group Member and Student IDs</h2>
+1. MUHAMMAD IQBAL BIN RUSLAN - 52215125730
+2. MUHAMMAD HUSSAIN KOE BIN MUHAMMAD KHALID KOE - 52215125117
+3. IZZUL HARITH BIN IDHAM - 52215251635
+4. NUR LYANA YASMIN BINTI KHAMARUKHNIZAM - 52215125726
+<br>
+<br>
 <h2>Problem Statement</h2>
 Despite advancements in facial biometric security, current research exhibits two major operational weaknesses: <br>
 
